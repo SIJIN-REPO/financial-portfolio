@@ -1,0 +1,4 @@
+.app-shell { display: flex; flex-direction: column; height: 100vh; }
+    header { background: #003366; color: white; padding: 16px; }
+    nav a { color: white; margin-right: 8px; }
+    main { flex: 1 1 auto; overflow: auto; padding: 16px; }
